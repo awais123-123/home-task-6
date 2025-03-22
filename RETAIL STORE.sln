@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RETAIL STORE", "RETAIL STORE\RETAIL STORE.csproj", "{788A029A-454D-412B-9C16-60747272562A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "softwareapplication", "softwareapplication\softwareapplication.csproj", "{DEF1B965-1904-4AF0-8EE3-36BA76039076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788A029A-454D-412B-9C16-60747272562A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788A029A-454D-412B-9C16-60747272562A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788A029A-454D-412B-9C16-60747272562A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788A029A-454D-412B-9C16-60747272562A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF1B965-1904-4AF0-8EE3-36BA76039076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF1B965-1904-4AF0-8EE3-36BA76039076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF1B965-1904-4AF0-8EE3-36BA76039076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF1B965-1904-4AF0-8EE3-36BA76039076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
